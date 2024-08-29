@@ -1,0 +1,44 @@
+{
+  "cards": [
+    {
+      "id": "2",
+      "title": "Apple card",
+      "price": 299,
+      "memory": "",
+      "image": "./src/Asets/Applecard.png",
+      "category": "apple tv"
+    },
+    {
+      "id": "4",
+      "title": "Iphone xr",
+      "price": 599,
+      "memory": "64",
+      "image": "./src/Asets/Iphone.png",
+      "category": "Iphons"
+    },
+    {
+      "id": "5d3b",
+      "title": "iphone 15",
+      "price": "1200",
+      "memory": "1000",
+      "image": "https://login.kg/image/cache/catalog/new/Phones/Apple/iPhone%2014/Pro-Pro%20Max/3-500x400.jpg",
+      "category": "Iphons"
+    },
+    {
+      "id": "5d3",
+      "title": "iphone 16",
+      "price": "1500",
+      "memory": "1000",
+      "image": "https://login.kg/image/cache/catalog/new/Phones/Apple/iPhone%2014/Pro-Pro%20Max/3-500x400.jpg",
+      "category": "Iphons"
+    },
+    {
+      "id": "afc5",
+      "title": "apple watch",
+      "price": "300",
+      "memory": "2",
+      "image": "https://object.pscloud.io/cms/cms/Photo/img_0_911_452_0_6.png",
+      "category": "watchs"
+    }
+  ]
+}
